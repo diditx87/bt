@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LOCAL (Lain)",EDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",PERSIJA TV
+http://103.47.132.164/PLTV/88888888/224/3221227429/1.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1 group-title="LOCAL (Lain)",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",SCTV
+http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",GLOBALTV HD
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",ANTV
+http://rr2.dens.tv:80/s/s07/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=QDRPJIL23VPBQH5IHQ49CZBJZESTACZ7&chname=antv
+
+#EXTINF:-1 group-title="LOCAL (Lain)",INDOSIAR
+http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",I NEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",Cartoon Network HD
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",TRANS 7 
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u
+
+#EXTINF:-1 group-title="LOCAL (Lain)",SINEMA INDONESIA
+http://103.47.132.164/PLTV/88888888/224/3221227233/2.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",TV ONE
+http://210.210.155.35/session/ab504be8-c614-11e9-b5bf-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",NET TV
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",ANIMAX
+http://103.47.132.164/PLTV/88888888/224/3221227145/1.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",RTV
+http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="LOCAL (Lain)",KOMPAS TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="LOCAL (Lain)",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",TVRI Sports
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="LOCAL (Lain)",RODJA TV
+http://103.47.132.164/PLTV/88888888/224/3221227225/2.m3u8
+
+#EXTINF:-1 group-title="LOCAL (Lain)",NUSANTARA TV
+http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
